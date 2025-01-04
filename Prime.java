@@ -12,7 +12,6 @@ class Prime {
 				if(Num1%i == 0)
 				{
 					flag = flag+1;
-
 				}
 			}
 		}
